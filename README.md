@@ -23,6 +23,7 @@ Feel free to connect or reach out!
 
 - ✉️ Email: lucasyt710@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/lucas-lemes-félix-649034325
+- 📸 Instagram: @llfelix05
 
 ---
 
