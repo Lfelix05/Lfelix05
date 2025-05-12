@@ -24,16 +24,14 @@ Here are some of the technologies I’m familiar with:
 ###
 
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lfelix05&layout=compact&theme=tokyonight&langs_count=6"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lfelix05&show_icons=true&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lfelix05&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lfelix05&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
 
 ## 📫 Contact
 Feel free to connect or reach out!
