@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Lucas Lemes Félix
 
-I'm a 20-year-old Systems Information student and a passionate programming enthusiast based in Brazil.
+I'm a 20-year-old student of Information Systems and an enthusiastic programmer based in Brazil.
 
 ## 🚀 About Me
 - 🎓 I'm currently pursuing a degree in **Information Systems**.
