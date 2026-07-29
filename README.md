@@ -1,26 +1,29 @@
 # 👋 Hi there! I'm Lucas Lemes Félix
 
-I'm a 21-year-old student of Information Systems and an enthusiastic programmer based in Brazil.
+🎓 **Information Systems Student** | 💻 **ABAP / SAP Developer**
 
-## 🚀 About Me
-- 🎓 I'm currently pursuing a degree in **Information Systems**.
-- 💻 I love exploring new technologies and building useful software.
-- 🌱 Constantly learning and improving my skills in the tech world.
+- 🛠️ Developing backend solutions and business logic with **ABAP** & **SAP**.
+- 🗄️ Experienced in database queries and enterprise workflow automation.
+- 🚀 Passionate about software engineering, system integration, and continuous learning.
 
 ## 🛠️ Tech Stack
 Here are some of the technologies I’m familiar with:
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/SAP_ABAP-0057D2?style=for-the-badge&logo=sap&logoColor=white&scale=1.5" alt="SAP ABAP logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&scale=1.5" alt="python logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge&scale=1.5" alt="dart logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge&scale=1.5" alt="flutter logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&scale=1.5" alt="firebase logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&scale=1.5" alt="html5 logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&scale=1.5" alt="css3 logo"  />
 </div>
 
 ###
