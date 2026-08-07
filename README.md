@@ -2,9 +2,10 @@
 
 🎓 **Information Systems Student** | 💻 **ABAP / SAP Developer**
 
-- 🛠️ Developing backend solutions and business logic with **ABAP** & **SAP**.
+- 🛠️ Developing backend solutions and business logic with **ABAP** & **SAP** for [Unimarka Distribuidora](https://unimarka.com.br/).
 - 🗄️ Experienced in database queries and enterprise workflow automation.
-- 🚀 Passionate about software engineering, system integration, and continuous learning.
+- 🔍 Focused on debugging and optimizing critical SAP processes (payments, discounts, order splitting).
+- 🐍 Automating manual processes with Python — from spreadsheet parsing to database ingestion.
 
 ## 🛠️ Tech Stack
 Here are some of the technologies I’m familiar with:
